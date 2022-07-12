@@ -1,1 +1,1 @@
-The program prints the ASCII codes of the entered string of characters in hexadecimal format
+The program performs XOR operation for two binary numbers of any size which are located in data files, and outputs the result to the 3rd data file.
