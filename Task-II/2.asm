@@ -1,8 +1,7 @@
-;Vadim Èeremisinov 4 grupë
-;LSP numeris: 2110545
-;Parağykite programà, kuri atlieka operacijà XOR 
-;dviems beveik bet kokio ilgio dvejetainiams skaièiams, esantiems failuose, 
-;ir iğveda rezultatà á treèià failà.
+;Vadim ÄŒeremisinov 4 grupÄ—
+;ParaÅ¡ykite programÄ…, kuri atlieka operacijÄ… XOR 
+;dviems beveik bet kokio ilgio dvejetainiams skaiÄiams, esantiems failuose, 
+;ir iÅ¡veda rezultatÄ… Ä¯ treÄiÄ… failÄ….
 
 
 .model small		    
